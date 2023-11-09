@@ -6,7 +6,7 @@ git clone https://github.com/Raul226/network-library-template
 ```
 
 ```console
-cd network-library-template
+cd ./network-library-template
 ```
 
 ```console
