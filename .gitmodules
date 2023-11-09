@@ -1,0 +1,3 @@
+[submodule "src/network-library"]
+	path = src/network-library
+	url = https://github.com/Raul226/network-library
