@@ -2,7 +2,7 @@
 
 ## Build
 ```console
-git clone https://github.com/Raul226/network-library-template
+git clone https://github.com/Raul226/network-library-template --recurse-submodules
 ```
 
 ```console
